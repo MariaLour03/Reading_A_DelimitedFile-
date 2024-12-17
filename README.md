@@ -1,2 +1,2 @@
-# Reading_A_DelimitedFile-
+# Reading_A_DelimitedFile
 REading a Delimited File.
